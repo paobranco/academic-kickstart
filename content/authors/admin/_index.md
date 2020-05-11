@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Paula Branco
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,38 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: EECS - University of Ottawa
+  url: "https://engineering.uottawa.ca/school-EECS"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm an Assistant Professor at EECS, University of Ottawa. My research interests include Artificial Intelligence, Machine Learning, Imbalanced Domains, Outlier Detection, Anomaly Detection, Fraud Detection and Cybersecurity.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Imbalanced Domains
+- Outlier Detection
+- Anomaly Detection
+- Cybersecurity
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: MAPi - Joint Doctoral Programme
+    year: 2018
+  - course: MSc Computer Science - Specialization in Data Mining and Advanced Data Processing
+    institution: FCUP - University of Porto
+    year: 2014
+  - course: Specialization in the MSc Mathematics for School Teachers 
+    institution: FCUP - University of Porto
+    year: 2013
+  - course: Degree in Mathematics - Educational Branch
+    institution: FCUP - University of Porto
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +51,24 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=lLgQE20AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/paobranco
+#- icon: in
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/paula-branco-88a30a81
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/branco_p_1.html
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-9917-3694
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Paula_Branco4
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +76,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "pbranco@uottawa.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +85,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an Assistant Professor at the School of Electrical Engineering and Computer Science in the University of Ottawa, Canada. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My main research interests are focused on Artificial Intelligence and Machine Learning with a special focus on imbalanced domains, outlier detection, anomaly detection, cost-sensitive and utility-based learning, fraud detection and cybersecurity.
+

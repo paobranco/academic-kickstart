@@ -12,3 +12,6 @@ header:
   caption: ""
   image: ""
 ---
+
+"Rare events detection: Methods and Evaluation" September 2020 
+LIDTA'2020: Tutorial on Learning with Imbalanced Domains and Rare Event Detection at ECML/PKDD 2020 [here](https://web.cs.dal.ca/~ltorgo/LIDTA/)

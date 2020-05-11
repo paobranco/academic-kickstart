@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "Paper published at DSAA'19 in Washington: A Study on the Impact of Data Characteristics in Imbalanced Regression Tasks"
   image: ""
 ---

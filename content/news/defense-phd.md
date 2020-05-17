@@ -7,7 +7,7 @@ event = ""
 event_url = ""
 location = ""
 
-selected = false
+selected = true
 math = true
 
 url_pdf = "https://repositorio-aberto.up.pt/bitstream/10216/116123/2/292352.pdf"
